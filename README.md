@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a cookie recipe wherein I practiced corrercting spacing, indentation, and tag correction throughout the code._
+_This is a cookie recipe wherein I practiced correrct spacing, indentation, and tags throughout the code._
 
 ## Setup/Installation Requirements
 
