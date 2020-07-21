@@ -10,8 +10,9 @@ _This is a cookie recipe wherein I practiced correct spacing, indentation, and t
 
 ## Setup/Installation Requirements
 
-* _Clone this repository_
-* _Open in web browser_
+* to clone this content, copy the url provided by the 'clone or download' button in GitHub
+* in the terminal use the command 'git clone (GitHub url)'
+* open the content in a web browser
 
 ## Technologies Used
 _HTML_
